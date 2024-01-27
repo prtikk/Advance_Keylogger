@@ -1,0 +1,2 @@
+changed the extension from .py to .pyw for not getting a console(cmd) window popup and run the python script in background.
+after for terminating the program will have to go to taskmanager and under the process tab just find the python file running and end its task.
